@@ -1,3 +1,4 @@
+fix: the loop of sliceshow
 # Auto detect text files and perform LF normalization
 * text=auto
 
